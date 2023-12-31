@@ -11,14 +11,14 @@ function Nav() {
     </div>
 
     <div className="profile-container">
-      <a href="#">
+      <a href="eslint-disable-next-line">
         <FiHeart className="nav-icons"/>
       </a>
 
-      <a href="#">
+      <a href="eslint-disable-next-line">
         <AiOutlineShoppingCart className="nav-icons"/>
       </a>
-      <a href="#">
+      <a href="eslint-disable-next-line">
         <AiOutlineUserAdd className="nav-icons"/>
       </a>
     </div>  
